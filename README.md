@@ -1,9 +1,9 @@
-## ShopSphere
+# ShopSphere
 
 ShopSphere is an Amazon-inspired e-commerce homepage frontend created using HTML and CSS.
 This project was built to practice frontend development and recreate the basic layout and design of a real-world e-commerce website.
 
-# Features
+## Features
 
 * Amazon-inspired navigation bar
 * Search bar
@@ -15,13 +15,13 @@ This project was built to practice frontend development and recreate the basic l
 * E-commerce style footer
 * Font Awesome icons
 
-# Tech Stack
+## Tech Stack
 
 * HTML5
 * CSS3
 * Font Awesome
 
-# Project Structure
+## Project Structure
 
 ShopSphere/
 │
@@ -41,7 +41,7 @@ ShopSphere/
 │
 └── .gitignore
 
-# How to Run
+## How to Run
 
 1. Clone the repository:
 
@@ -53,7 +53,7 @@ git clone https://github.com/Janhvi-ops/ShopSphere.git
 
 No installation or additional dependencies are required.
 
-# Project Purpose
+## Project Purpose
 
 The main purpose of this project was to improve my understanding of:
 
@@ -65,14 +65,14 @@ The main purpose of this project was to improve my understanding of:
 * Working with images
 * Using external icon libraries
 
-# Note
+## Note
 
 This is a frontend practice project inspired by the Amazon homepage. It is not affiliated with or an official project of Amazon.
 
 The project is currently designed as a desktop frontend and is not responsive or deployed.
 
-## 👩‍💻 Author
+## Author
 
-**Janhvi Gaulkar**
+Janhvi Gaulkar
 
 GitHub: [Janhvi-ops](https://github.com/Janhvi-ops)
